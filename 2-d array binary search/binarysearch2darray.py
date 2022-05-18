@@ -13,3 +13,4 @@ class Solution(object):
             else:
                 end-=1
         return False
+#complexity log(m*n)----m =number of rows.n=number of columns
